@@ -17,5 +17,5 @@ Jupyter notebook para descargar, procesar y visualizar datos de la Secretaría d
 ## Perfiles
 
 <center>
-<img src=https://github.com/jrncarlock/data-visualizations/blob/master/covid19-mx/images/profiles.png" width="400"/>
+<img src="https://github.com/jrncarlock/data-visualizations/blob/master/covid19-mx/images/profiles.png" width="400"/>
 </center>
