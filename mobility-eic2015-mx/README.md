@@ -26,13 +26,13 @@ The edgelist files have the "origin-destine" structure with a "weight" related t
 ## Work mobility network (municipality level)
 
 <center>
-<img src="https://github.com/jrncarlock/MX_Mobility_EIC2015/blob/master/images/work_mobility_network_mun.png" width="800"/>
+<img src="https://github.com/jrncarlock/data-visualizations/blob/master/mobility-eic2015-mx/images/work_mobility_network_mun.png" width="800"/>
 </center>
 
 ## School mobility network (municipality level)
 
 <center>
-<img src="https://github.com/jrncarlock/MX_Mobility_EIC2015/blob/master/images/school_mobility_netowrk_mun.png" width="800"/>
+<img src="https://github.com/jrncarlock/data-visualizations/blob/master/mobility-eic2015-mx/images/school_mobility_netowrk_mun.png" width="800"/>
 </center>
 
 Visualizations made in *Cytoscape*. Links with a weight < 100 were removed.
