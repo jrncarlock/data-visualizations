@@ -1,4 +1,4 @@
-# MX_Mobility_EIC2015
+# mobility-eic2015-mx
 
 This repository contains the processed mobility data from Mexico's INEGI Intercensal Survey 2015.
 
